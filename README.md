@@ -1,5 +1,4 @@
 # assembly_snake
 
+使用汇编编写的贪吃蛇
 
-
-Detail:http://yufeiran.com/hui-bian-tan-chi-she/
